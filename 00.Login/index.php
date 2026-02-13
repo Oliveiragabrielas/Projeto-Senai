@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Login</h1>
+    <h1>Página de Login</h1>
 
     <div>
         <label for="Email">Email</label>
